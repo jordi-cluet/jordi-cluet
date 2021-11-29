@@ -1,3 +1,5 @@
+## About me
+
 - 🔭 Working on Data Science projects at inLab FIB
 - 📚 Studying the Master in Data Science at Universitat Politècnica de Catalunya
 - 📚 Graduated in Computer Science at Universitat Politècnica de Catalunya
