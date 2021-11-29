@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🔭 Working on Data Science projects at inLab FIB
+- 📚 Studying the Master in Data Science at Universitat Politècnica de Catalunya
+- 📚 Graduated in Computer Science at Universitat Politècnica de Catalunya
 
 <!--
 **jordi-cluet/jordi-cluet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
