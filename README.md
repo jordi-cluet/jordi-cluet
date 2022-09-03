@@ -1,7 +1,7 @@
 ## About me
 
 - 📚 Master in Data Science student at École Polytechnique Fédérale de Lausanne (EPFL)
-- 📚 Bachelor in Computer Science graduate at Universitat Politècnica de Catalunya (UPC)
+- 💻 Bachelor in Computer Science graduate at Universitat Politècnica de Catalunya (UPC)
 
 - 🔭 Researching at Data Science Lab (dlab) at EPFL
 - 🔙 Previous experience at inLab FIB
