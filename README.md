@@ -1,8 +1,13 @@
 ## About me
 
-- 🔭 Working on Data Science projects at inLab FIB
-- 📚 Studying the Master in Data Science at Universitat Politècnica de Catalunya
-- 📚 Graduated in Computer Science at Universitat Politècnica de Catalunya
+- 📚 Master in Data Science student at École Polytechnique Fédérale de Lausanne (EPFL)
+- 📚 Bachelor in Computer Science graduate at Universitat Politècnica de Catalunya (UPC)
+
+- 🔭 Researching at Data Science Lab (dlab) at EPFL
+- 🔙 Previous experience at inLab FIB
+
+- 🌱 Currently learning languages and new DS-related skills
+- 👯 Looking to collaborate on ambotious and ethical projects
 
 <!--
 **jordi-cluet/jordi-cluet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
