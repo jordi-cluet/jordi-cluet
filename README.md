@@ -3,8 +3,8 @@
 - 📚 Master in Data Science student at École Polytechnique Fédérale de Lausanne (EPFL)
 - 💻 Bachelor in Computer Science graduate at Universitat Politècnica de Catalunya (UPC)
 
-- 🔭 Researching at Data Science Lab (dlab) at EPFL
-- 🔙 Previous experience at inLab FIB
+- 🔭 Researcher at Data Science Lab (dlab) at EPFL
+- 🔙 Previous intern at inLab FIB
 
 - 🌱 Currently learning languages and new DS-related skills
 - 👯 Looking to collaborate on ambotious and ethical projects
