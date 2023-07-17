@@ -9,6 +9,6 @@ Work experience:
 - 🔭 Data Science Researcher at EPFL's Data Science Lab ([dlab](https://dlab.epfl.ch))
 - 🔙 Data Science Intern at [inLab FIB](https://inlab.fib.upc.edu/en)
 
-
+Others:
 - 🌱 Always learning languages and new DS-related skills
 - 🤸‍♂️ Passionate about hiking, ski, board games and more!
