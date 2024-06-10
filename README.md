@@ -1,4 +1,5 @@
 ## About me
+Data Scientist currently based in Zürich.
 
 Work experience:
 - 🚀 Currently ICT Trainee at [Swisscom](https://www.swisscom.ch)
