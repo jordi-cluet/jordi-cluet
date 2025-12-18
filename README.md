@@ -2,7 +2,7 @@
 Data Scientist currently based in Zürich.
 
 Experience:
-- 🚀 Currently ICT Trainee at [Swisscom](https://www.swisscom.ch)
+- 🚀 Currently Data & AI Engineer at [Swisscom](https://www.swisscom.ch)
 - 🚅 Master Thesis at [SBB-CFF-FFS](https://www.sbb.ch/en)
 - 🔭 Researcher at EPFL's Data Science Lab ([dlab](https://dlab.epfl.ch))
 - 🔙 Intern at [inLab FIB](https://inlab.fib.upc.edu/en)
